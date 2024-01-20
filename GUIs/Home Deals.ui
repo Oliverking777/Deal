@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>892</width>
-    <height>468</height>
+    <height>488</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -1184,12 +1184,12 @@ background:transparent;</string>
                      </property>
                      <property name="icon">
                       <iconset resource="resources.qrc">
-                       <normaloff>:/icon/14757766.thumb</normaloff>:/icon/14757766.thumb</iconset>
+                       <normaloff>:/icon/téléchargement (2).jfif</normaloff>:/icon/téléchargement (2).jfif</iconset>
                      </property>
                      <property name="iconSize">
                       <size>
-                       <width>100</width>
-                       <height>100</height>
+                       <width>150</width>
+                       <height>150</height>
                       </size>
                      </property>
                     </widget>
@@ -1213,7 +1213,7 @@ background:transparent;</string>
                    </font>
                   </property>
                   <property name="text">
-                   <string>RCA 1080p LCD Home Theater Projector</string>
+                   <string>SOKA Single Handle Kitchen Faucet Stainless Steel High Arc Modern Style Aquablade Sweep,</string>
                   </property>
                  </widget>
                 </item>
@@ -1320,7 +1320,7 @@ background:transparent;</string>
                    </property>
                    <property name="icon">
                     <iconset resource="resources.qrc">
-                     <normaloff>:/icon/14751259.thumb</normaloff>:/icon/14751259.thumb</iconset>
+                     <normaloff>:/icon/téléchargement (3).jfif</normaloff>:/icon/téléchargement (3).jfif</iconset>
                    </property>
                    <property name="iconSize">
                     <size>
@@ -1340,7 +1340,7 @@ background:transparent;</string>
                    </font>
                   </property>
                   <property name="text">
-                   <string>Original Pengin Men Cotton Twill Jacket</string>
+                   <string>Seki Kanetsugu - Molybdenum Stainless Steel Deba Knife 15cm - Kaz's Knife and Kitchenware</string>
                   </property>
                  </widget>
                 </item>
@@ -1761,7 +1761,6 @@ background:transparent;</string>
  </widget>
  <resources>
   <include location="resources.qrc"/>
-  <include location="../PycharmProjects/pythonDEAL FINDEER/GUIs/resources.qrc"/>
  </resources>
  <connections/>
 </ui>

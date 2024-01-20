@@ -1,5 +1,7 @@
 <RCC>
   <qresource prefix="icon">
+    <file>téléchargement (3).jfif</file>
+    <file>téléchargement (2).jfif</file>
     <file>bbBedAndBath.svg</file>
     <file>bbGardeningAndOutdoor.svg</file>
     <file>bbLighting.svg</file>
